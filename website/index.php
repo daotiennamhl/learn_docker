@@ -17,7 +17,7 @@
     foreach ($products as $product) {
       echo "<li>$product->id: $product->first_name $product->last_name</li>";
     }
-    //dit me may
+    //dit me may 2
 
     ?>
   </ul>
